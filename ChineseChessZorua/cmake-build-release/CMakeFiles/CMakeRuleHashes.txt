@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+e261cbb39dbedfca04e18389f3722795 CMakeFiles/ChineseChessZorua_autogen
+eec67a17e830ee8aaf508f2831da4945 moc_Boardgame.cpp
+b16c5692074584507893f1d972f7966a moc_Chess.cpp
+fb342f92377468a2b340be22b9198ccb moc_mainwindow.cpp
+5c87f0101f6c543f65192037c7bc41d7 ui_mainwindow.h

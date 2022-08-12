@@ -1,0 +1,4 @@
+ToolSet: w64 3.4 (local)@D:\Dev-Cpp\MinGW64
+Options: 
+
+Options:-DCMAKE_PREFIX_PATH=D:\Qt\Qt5.12.10\5.12.10\mingw73_64

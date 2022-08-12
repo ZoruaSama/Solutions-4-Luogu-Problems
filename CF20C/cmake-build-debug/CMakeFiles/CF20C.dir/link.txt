@@ -1,0 +1,3 @@
+D:\CLion\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\CF20C.dir/objects.a
+D:\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\CF20C.dir/objects.a @CMakeFiles\CF20C.dir\objects1.rsp
+D:\Dev-Cpp\MinGW64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\CF20C.dir/objects.a -Wl,--no-whole-archive  -o CF20C.exe -Wl,--out-implib,libCF20C.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CF20C.dir\linklibs.rsp

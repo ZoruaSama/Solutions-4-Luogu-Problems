@@ -1,0 +1,3 @@
+C:/Users/Zorua/CLionProjects/P2040/cmake-build-debug/CMakeFiles/P2040.dir
+C:/Users/Zorua/CLionProjects/P2040/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zorua/CLionProjects/P2040/cmake-build-debug/CMakeFiles/rebuild_cache.dir

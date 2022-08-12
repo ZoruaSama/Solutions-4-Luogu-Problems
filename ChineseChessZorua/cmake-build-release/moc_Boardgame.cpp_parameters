@@ -1,0 +1,6 @@
+-IC:/Users/Zorua/CLionProjects/ChineseChessZorua
+-IC:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-release
+-DWIN32
+-o
+C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-release/moc_Boardgame.cpp
+C:/Users/Zorua/CLionProjects/ChineseChessZorua/Boardgame.h

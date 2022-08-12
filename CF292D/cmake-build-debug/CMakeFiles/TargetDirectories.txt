@@ -1,0 +1,3 @@
+C:/Users/Zorua/CLionProjects/CF292D/cmake-build-debug/CMakeFiles/CF292D.dir
+C:/Users/Zorua/CLionProjects/CF292D/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zorua/CLionProjects/CF292D/cmake-build-debug/CMakeFiles/rebuild_cache.dir

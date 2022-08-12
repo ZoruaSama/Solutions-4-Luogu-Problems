@@ -1,0 +1,8 @@
+D:\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" C:\Users\Zorua\CLionProjects\ChineseChessZorua
+-- Configuring done
+CMake Error in CMakeLists.txt:
+  The CXX_STANDARD property on target "ChineseChessZorua" contained an
+  invalid value: "41".
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

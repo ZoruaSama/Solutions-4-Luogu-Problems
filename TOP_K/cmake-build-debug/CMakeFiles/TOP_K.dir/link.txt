@@ -1,0 +1,3 @@
+D:\CLion\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\TOP_K.dir/objects.a
+D:\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\TOP_K.dir/objects.a @CMakeFiles\TOP_K.dir\objects1.rsp
+D:\Dev-Cpp\MinGW64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\TOP_K.dir/objects.a -Wl,--no-whole-archive  -o TOP_K.exe -Wl,--out-implib,libTOP_K.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TOP_K.dir\linklibs.rsp

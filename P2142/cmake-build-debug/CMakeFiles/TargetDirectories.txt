@@ -1,0 +1,3 @@
+C:/Users/Zorua/CLionProjects/P2142/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zorua/CLionProjects/P2142/cmake-build-debug/CMakeFiles/P2142.dir
+C:/Users/Zorua/CLionProjects/P2142/cmake-build-debug/CMakeFiles/rebuild_cache.dir

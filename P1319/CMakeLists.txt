@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(P1319 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(P1319 main.c)

@@ -1,0 +1,3 @@
+C:/Users/Zorua/CLionProjects/P2330/cmake-build-debug/CMakeFiles/P2330.dir
+C:/Users/Zorua/CLionProjects/P2330/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zorua/CLionProjects/P2330/cmake-build-debug/CMakeFiles/rebuild_cache.dir

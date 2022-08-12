@@ -1,0 +1,4 @@
+C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/CMakeFiles/ChineseChessZorua.dir
+C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/CMakeFiles/ChineseChessZorua_autogen.dir

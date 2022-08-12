@@ -1,0 +1,3 @@
+C:/Users/Zorua/CLionProjects/ P5990/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Zorua/CLionProjects/ P5990/cmake-build-debug/CMakeFiles/_P5990.dir
+C:/Users/Zorua/CLionProjects/ P5990/cmake-build-debug/CMakeFiles/edit_cache.dir

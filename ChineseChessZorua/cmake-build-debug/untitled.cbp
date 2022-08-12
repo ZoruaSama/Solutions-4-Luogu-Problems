@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Qt\;CMake Files\Qt\Qt5.12.10\;CMake Files\Qt\Qt5.12.10\5.12.10\;CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\;CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\;CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\;CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5\;CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Widgets\;CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\;CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Core\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled">
+				<Option output="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/untitled.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add directory="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug"/>
+					<Add directory="C:/Users/Zorua/CLionProjects/ChineseChessZorua"/>
+					<Add directory="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/untitled_autogen/include"/>
+					<Add directory="D:/Qt/Qt5.12.10/5.12.10/mingw73_64/include"/>
+					<Add directory="D:/Qt/Qt5.12.10/5.12.10/mingw73_64/include/QtCore"/>
+					<Add directory="D:/Qt/Qt5.12.10/5.12.10/mingw73_64/./mkspecs/win32-g++"/>
+					<Add directory="D:/Qt/Qt5.12.10/5.12.10/mingw73_64/include/QtWidgets"/>
+					<Add directory="D:/Qt/Qt5.12.10/5.12.10/mingw73_64/include/QtGui"/>
+					<Add directory="D:/Qt/Qt5.12.10/5.12.10/mingw73_64/include/QtANGLE"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled/fast">
+				<Option output="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/untitled.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add directory="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug"/>
+					<Add directory="C:/Users/Zorua/CLionProjects/ChineseChessZorua"/>
+					<Add directory="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/untitled_autogen/include"/>
+					<Add directory="D:/Qt/Qt5.12.10/5.12.10/mingw73_64/include"/>
+					<Add directory="D:/Qt/Qt5.12.10/5.12.10/mingw73_64/include/QtCore"/>
+					<Add directory="D:/Qt/Qt5.12.10/5.12.10/mingw73_64/./mkspecs/win32-g++"/>
+					<Add directory="D:/Qt/Qt5.12.10/5.12.10/mingw73_64/include/QtWidgets"/>
+					<Add directory="D:/Qt/Qt5.12.10/5.12.10/mingw73_64/include/QtGui"/>
+					<Add directory="D:/Qt/Qt5.12.10/5.12.10/mingw73_64/include/QtANGLE"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled/fast"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled_autogen">
+				<Option working_dir="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled_autogen"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/moc_mainwindow.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/moc_mainwindow.cpp.rule">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/ui_mainwindow.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/untitled_autogen/mocs_compilation.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/mainwindow.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/mainwindow.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/mainwindow.ui">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/Zorua/CLionProjects/ChineseChessZorua/Qt/Qt5.12.10/5.12.10/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\Qt\Qt5.12.10\5.12.10\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

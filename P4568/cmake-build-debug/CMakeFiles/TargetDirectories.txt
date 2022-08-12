@@ -1,0 +1,3 @@
+C:/Users/Zorua/CLionProjects/P4568/cmake-build-debug/CMakeFiles/P4568.dir
+C:/Users/Zorua/CLionProjects/P4568/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zorua/CLionProjects/P4568/cmake-build-debug/CMakeFiles/rebuild_cache.dir

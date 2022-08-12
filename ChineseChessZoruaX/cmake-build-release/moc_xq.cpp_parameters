@@ -1,0 +1,6 @@
+-IC:/Users/Zorua/CLionProjects/ChineseChessZoruaX
+-IC:/Users/Zorua/CLionProjects/ChineseChessZoruaX/cmake-build-release
+-DWIN32
+-o
+C:/Users/Zorua/CLionProjects/ChineseChessZoruaX/cmake-build-release/moc_xq.cpp
+C:/Users/Zorua/CLionProjects/ChineseChessZoruaX/xq.cpp

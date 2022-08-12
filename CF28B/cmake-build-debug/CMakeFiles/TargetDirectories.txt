@@ -1,0 +1,3 @@
+C:/Users/Zorua/CLionProjects/CF28B/cmake-build-debug/CMakeFiles/CF28B.dir
+C:/Users/Zorua/CLionProjects/CF28B/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zorua/CLionProjects/CF28B/cmake-build-debug/CMakeFiles/rebuild_cache.dir

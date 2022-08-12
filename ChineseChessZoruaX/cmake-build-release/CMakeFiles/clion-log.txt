@@ -1,0 +1,4 @@
+D:\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=D:\Qt\Qt5.12.10\5.12.10\mingw73_64 -G "CodeBlocks - MinGW Makefiles" C:\Users\Zorua\CLionProjects\ChineseChessZoruaX
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Zorua/CLionProjects/ChineseChessZoruaX/cmake-build-release

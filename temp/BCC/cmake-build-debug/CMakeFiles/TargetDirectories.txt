@@ -1,0 +1,3 @@
+C:/Users/Zorua/CLionProjects/temp/BCC/cmake-build-debug/CMakeFiles/BCC.dir
+C:/Users/Zorua/CLionProjects/temp/BCC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zorua/CLionProjects/temp/BCC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

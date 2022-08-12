@@ -1,0 +1,6 @@
+-IC:/Users/Zorua/CLionProjects/ChineseChessZorua
+-IC:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug
+-DWIN32
+-o
+C:/Users/Zorua/CLionProjects/ChineseChessZorua/cmake-build-debug/moc_Chess.cpp
+C:/Users/Zorua/CLionProjects/ChineseChessZorua/Chess.h
